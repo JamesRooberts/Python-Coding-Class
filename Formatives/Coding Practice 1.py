@@ -24,7 +24,7 @@ print(apostrophe)
 print(12635241//2)
 print(1352%33)
 print(5**7)
-print(5**2)
+print(5**(1/2)
 
 # slicing
 
