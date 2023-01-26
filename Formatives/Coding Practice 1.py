@@ -30,9 +30,9 @@ print(5**(1/2)
 
 numbers = "0123456789"
 
-print(numbers [:1:])
+print(numbers[0]
 
-print(numbers [9::])
+print(numbers[9]
 
 print(numbers [::2])
 
